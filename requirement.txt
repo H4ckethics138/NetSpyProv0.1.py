@@ -1,0 +1,7 @@
+netifaces
+scapy
+pyfiglet
+termcolor
+colorama
+
+
